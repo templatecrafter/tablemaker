@@ -9,7 +9,7 @@
  * @copyright Copyright (c) 2018 Supercool Ltd
  */
 
-namespace supercool\tablemaker;
+namespace templatecrafter\tablemaker;
 
 
 use Craft;
@@ -19,7 +19,7 @@ use craft\events\PluginEvent;
 use craft\services\Fields;
 use craft\events\RegisterComponentTypesEvent;
 
-use supercool\tablemaker\fields\TableMakerField;
+use templatecrafter\tablemaker\fields\TableMakerField;
 
 use yii\base\Event;
 

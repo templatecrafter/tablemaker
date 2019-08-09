@@ -11,3 +11,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/) and this p
 ## 2.0.1 - 2018-07-06
 ### Fixed
 - Fixed an error caused by deleting a column when there are mulitple columns and the deleted column is not the last one.
+
+## 2.0.1.1 - 2019-08-09
+### Added
+- Changed singleline to multiline
